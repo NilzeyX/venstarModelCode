@@ -10,8 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "expo": "^52.0.40",
+    "expo-gl": "^15.0.4",
+    "expo-three": "^8.0.0",
     "react": "18.3.1",
-    "react-native": "0.76.0"
+    "react-native": "0.76.0",
+    "three": "^0.166.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
